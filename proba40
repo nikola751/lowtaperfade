@@ -3,6 +3,11 @@
 int main()
 {
 printf("Dobro dosli");
-return0;
+
+printf("Dobro dosli");
+
+
+printf("Dobro dosli");
+
 
 }
